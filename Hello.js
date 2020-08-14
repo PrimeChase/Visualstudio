@@ -19,3 +19,7 @@ console.log(flat);
   }
 
 flatten(uglyArray);
+
+What it do 
+
+As you code, you want to save work AND commit often to check for bugs in your code and to see where mistakes were made a long the way
